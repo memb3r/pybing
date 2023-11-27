@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="">About</a>  ·  <a href="">Requirements</a>  ·  <a href="">Installation</a>  ·  <a href="">Usage</a>
+  <a href="https://github.com/memb3r/pybing/#about">About</a>  ·  <a href="https://github.com/memb3r/pybing/#requirements">Requirements</a>  ·  <a href="https://github.com/memb3r/pybing/#installation">Installation</a>  ·  <a href="https://github.com/memb3r/pybing/#usage">Usage</a>  ·  <a href="https://github.com/memb3r/pybing/#license">License</a>
 </p>
 
 ## About
