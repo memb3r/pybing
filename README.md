@@ -10,6 +10,10 @@
    <img src="https://img.shields.io/badge/version-1.0-red"> <img src="https://img.shields.io/badge/lang-python-blue?logo=python"> <img src="https://img.shields.io/badge/plat-linux-yellow?logo=linux"> <img src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
+<p align="center">
+  <a href="">About</a>  ·  <a href="">Requirements</a>  ·  <a href="">Installation</a>  ·  <a href="">Usage</a>
+</p>
+
 ## About
 
 PyBing is a program on Python that allows you to use Bing for free and without limit. Just install the libraries and start the program!
